@@ -1,4 +1,4 @@
-````markdown
+
 <h1 align="center">Hi 👋, I'm Sunny Sahani</h1>
 
 <h3 align="center">
@@ -312,4 +312,4 @@ at
 <h2 align="center">
 🚀 Keep Learning • Keep Building • Keep Growing
 </h2>
-```
+
